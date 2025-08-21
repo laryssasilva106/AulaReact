@@ -1,16 +1,17 @@
-export default function EspiritoSanto()
+export default function RioGrandedoSul()
 {
     return (
 
         <div>
 
-            <h1>Seja bem vindo ao Estado do Rio Grande do Sul   </h1>
+            <h1>Seja bem vindo ao Estado do Rio Grande do Sul </h1>
             <p>
-            O Rio Grande do Sul é um estado que carrega uma forte identidade cultural, com influências da imigração europeia, especialmente alemã e italiana, o que se reflete na arquitetura, culinária e festas típicas. Conhecido por suas pampas vastas e clima mais frio, é o berço do tradicional chimarrão, bebida símbolo da região, e dos churrascos que conquistaram o Brasil inteiro. Porto Alegre, a capital, é um centro urbano vibrante, enquanto o interior guarda cidades charmosas como Gramado e Canela, que se tornam um destino turístico popular, especialmente no inverno. O estado também se destaca por sua história, marcada por episódios como a Revolução Farroupilha, e por sua forte ligação com a tradição gaúcha, que é celebrada em festas como o desfile do 20 de setembro e o rodeio. A natureza do Rio Grande do Sul, com suas serras e costas marítimas, é outro atrativo, proporcionando uma grande diversidade de paisagens.
+            O Rio Grande do Sul é o estado mais ao sul do Brasil, conhecido por sua forte identidade cultural, que mistura influências de imigrantes europeus, principalmente alemães e italianos, com tradições gaúchas. A capital, Porto Alegre, é um importante centro urbano e cultural, famosa por sua culinária, que inclui pratos típicos como o churrasco e o chimarrão. O estado se destaca também pela sua produção agrícola, com forte presença na produção de soja, arroz e tabaco, além de ser um grande produtor de carne bovina e leite. O Rio Grande do Sul é reconhecido por suas paisagens variadas, que vão das serras gaúchas, com cidades como Gramado e Canela, até as praias do litoral, como Torres e Capão da Canoa. A cultura gaúcha, com seus danças, músicas e festas, como o tradicional Festival de Rodeio, é uma parte essencial da identidade do estado.
             </p>
 
             <p>
-                <img src="/ES.png" alt="" />
+            
+                <img src="/RS.png" alt="" />
             </p>
 
             <p>
