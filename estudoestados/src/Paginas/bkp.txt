@@ -1,0 +1,21 @@
+import Exercicio2 from "./Paginas/Exercicio2";
+import Exercicio3 from "./Paginas/Exercicio3";
+import Exercicio4 from "./Paginas/Exercicio4";
+import exercicio5 from "./Paginas/exercicio5";
+import exercicio6 from "./Paginas/exercicio6";
+import exercicio7 from "./Paginas/exercicio7";
+import exercicio8 from "./Paginas/exercicio8";
+import exercicio9 from "./Paginas/exercicio9";
+import exercicio10 from "./Paginas/exercicio10";
+
+
+
+                <Route path="/exercicio2" element={<Exercicio2 />} />
+                <Route path="/exercicio3" element={<Exercicio3 />} />
+
+                <Route path="/exercicio4" element={<Exercicio4 />} />
+                <Route path="/exercicio5" element={<Exercicio5 />} />
+                <Route path="/exercicio6" element={<Exercicio6 />} />
+                <Route path="/exercicio7" element={<Exercicio7 />} />
+                <Route path="/exercicio9" element={<Exercicio9 />} />
+                <Route path="/exercicio10" element={<Exercicio10 />} />

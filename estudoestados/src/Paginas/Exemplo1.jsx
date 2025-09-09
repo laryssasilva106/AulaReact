@@ -17,6 +17,10 @@ export default function Exemplo1() {
           <p>
             <input type="button" value="Calcular"></input>
           </p>
+          <p>
+            <h3>voltar</h3>
+        
+          </p>
           
         </form>
         </div>
